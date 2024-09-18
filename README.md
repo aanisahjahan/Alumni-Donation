@@ -68,4 +68,18 @@ New features were created such as:
 
 ### 5. Results and Insights
 
--  of the potential were from California
+#### Top Donor Characteristics 
+
+- 75% of the potential donors were from California, USA.
+  
+- Alumnus with a time gap of 1 to 5 years between their studies demonstrated a higher tendency to donate compared to others.
+  
+- Individuals who provided their middle initials are more likely to donate.
+  
+- Furthermore, individuals who were junior counsellors, have also shown a higher tendency to donate compared to those who weren’t junior counsellors.
+
+#### Predictive Model Performance 
+The XGBoost model demonstrated a strong ability to predict potential donors with a high degree of accuracy and AUC score.
+
+## Conclusion 
+This project provides a comprehensive analysis of potential donors using machine learning techniques. By identifying key features and using clustering to segment the top potential donors, it provides actionable insights that can aid in targeted engagement and fundraising strategies.
